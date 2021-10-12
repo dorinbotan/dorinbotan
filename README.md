@@ -12,6 +12,32 @@ Graduate MSc Software Systems Engineer from University College London.
 ![html5](https://img.shields.io/badge/Html5-★★☆-lightgrey?labelColor=2bbc8a&logo=Html5&style=for-the-badge&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★☆-lightgrey?labelColor=E34A86&logo=SQL&style=for-the-badge&logoColor=white)
 
+## Technologies and Tools
+
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a)
+![Terraform](https://img.shields.io/badge/-terraform-informational?style=flat-square&logo=terraform)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=2bbc8a)
+![Android](https://img.shields.io/badge/-Android-informational?style=flat-square&logo=android&logoColor=white&color=2bbc8a)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Prometheus](https://img.shields.io/badge/-Prometheus-007ACC?style=flat-square&logo=Prometheus)
+![nginx](https://img.shields.io/badge/nginx-green?style=flat-square&logo=nginx)
+![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-White?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Jira](https://img.shields.io/badge/-Jira-informational?style=flat-square&logo=jira)
+<a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
+
 - 🔭 Check out our Visual Studio / Visual Studio Code extension for [Azure Sphere](https://github.com/Azure-Sphere-Tools/azsphere-hardware-definition-tools).
 
 - 💬 Ask me about IoT and Cloud computing.
