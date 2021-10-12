@@ -2,6 +2,12 @@
 
 Graduate MSc Software Systems Engineer from University College London.
 
+- 🔭 Check out our Visual Studio / Visual Studio Code extension for [Azure Sphere](https://github.com/Azure-Sphere-Tools/azsphere-hardware-definition-tools).
+
+- 💬 Ask me about IoT and Cloud computing.
+
+- 📫 Drop me an mail at **dorinbotan@outlook.com**
+
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★☆-lightgrey?labelColor=FCA121&logo=JavaScript&style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=2C74C0&logo=typescript&style=for-the-badge&logoColor=white)
@@ -37,12 +43,6 @@ Graduate MSc Software Systems Engineer from University College London.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Jira](https://img.shields.io/badge/-Jira-informational?style=flat-square&logo=jira)
 <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-
-- 🔭 Check out our Visual Studio / Visual Studio Code extension for [Azure Sphere](https://github.com/Azure-Sphere-Tools/azsphere-hardware-definition-tools).
-
-- 💬 Ask me about IoT and Cloud computing.
-
-- 📫 Drop me an mail at **dorinbotan@outlook.com**
 
 ### Connect with me
 
