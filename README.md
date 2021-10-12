@@ -3,7 +3,6 @@
 Graduate MSc Software Systems Engineer from University College London.
 
 ## Languages
-https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=2C74C0&logo=typescript&style=for-the-badge&logoColor=white
 ![JavaScript](https://img.shields.io/badge/JavaScript-★★☆-lightgrey?labelColor=FCA121&logo=JavaScript&style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85-lightgrey?labelColor=2C74C0&logo=typescript&style=for-the-badge&logoColor=white)
 ![c](https://img.shields.io/badge/C-★★★-lightgrey?labelColor=C51A4A&logo=C&style=for-the-badge&logoColor=white)
