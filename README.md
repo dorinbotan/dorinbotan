@@ -53,7 +53,6 @@ Graduate MSc Software Systems Engineer from University College London.
 ### My Github Stats
 
 [![Dorin's github stats](https://github-readme-stats.vercel.app/api?username=dorinbotan&show_icons=true&theme=react)](https://github.com/dorinbotan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorinbotan&layout=compact&theme=react&langs_count=7&hide=CSS,ShaderLab)](https://github.com/dorinbotan)
 
 <!--
 - 🔭 I’m currently working on ...
