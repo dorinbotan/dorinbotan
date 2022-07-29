@@ -1,4 +1,4 @@
-<h2> Hi, I'm Dorin! <img src="https://lh3.googleusercontent.com/proxy/GI2ovMb_9ukg3Xp8K-WsRKo7aH2_PNZ0IbiJ6q5BEopXcVXooWtAGXO74k2TxUwclkB6q81FxG_HI81sTfIpa7GbhdCVxAE" width="30"></h2>
+<h2> Hi, I'm Dorin! <img src="https://i.gifer.com/2GU.gif" width="30"></h2>
 
 Graduate MSc Software Systems Engineer from University College London.
 
