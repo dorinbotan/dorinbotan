@@ -8,7 +8,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Engineer;
+### I am a Software Engineer
 - 🔭 Check out our Visual Studio / VSCode extension for [Azure Sphere](https://github.com/Azure-Sphere-Tools/azsphere-hardware-definition-tools).
 - 💬 Ask me about IoT and Cloud computing.
 - 📫 Drop me an mail at **dorinbotan@outlook.com**
