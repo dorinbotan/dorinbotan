@@ -6,7 +6,7 @@
 
 
 
-<img align="right" height="360px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Software Engineer;
 - 🔭 Check out our Visual Studio / VSCode extension for [Azure Sphere](https://github.com/Azure-Sphere-Tools/azsphere-hardware-definition-tools).
@@ -62,7 +62,7 @@
 
 ### :zap: My GitHub Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=dorinbotan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="dorin's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=dorinbotan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="dorin's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorinbotan&theme=react" width="37%" alt="dorin's Top Languages">
 
