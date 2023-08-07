@@ -60,14 +60,6 @@
 <br>
 <br>
 
-### :zap: My GitHub Stats
-
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=dorinbotan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="dorin's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorinbotan&theme=react" width="37%" alt="dorin's Top Languages">
-
-<br>
-
 ### Connect with me
 
 <a href="https://linkedin.com/in/dorinbotan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dorinbotan" height="30" width="40" /></a>
